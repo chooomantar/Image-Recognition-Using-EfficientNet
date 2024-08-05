@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow
+keras
+opencv-python-headless
+pillow
+scikit-learn
